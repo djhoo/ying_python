@@ -1,0 +1,48 @@
+https://cloud.tencent.com/developer/article/1005607
+https://zhuanlan.zhihu.com/p/128976272
+https://www.zhihu.com/question/28557115
+https://zhuanlan.zhihu.com/p/124189318
+
+1,
+django-admin startproject yixuan
+
+2,
+python manage.py startapp myapp
+
+3，pip install django-rest-framework
+
+4,
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
+
+//See the result     127.0.0.1:8000/api/books/    
+
+
+5,
+//npm install vue-cli  -g
+npm install  -g @vue-cli  //Vue3
+//npm install vue-cli  -g   //Vue2   you'd better select this one 
+
+
+6,pip install django-cors-headers
+
+7,npm install axios   -g
+
+8,npm i vant  -S  -g
+
+9,npm install -g @vue/cli
+
+new another folder
+10,
+vue init webpack myapp    //vue2 you'd better select this one
+ 
+11，cd myapp
+ npm run dev   
+//127.0.0.1:8080
+
+
+12，pip install djongo
+
+//run the mongodb
+13,mongod  -dbpath data   //data is the folder
